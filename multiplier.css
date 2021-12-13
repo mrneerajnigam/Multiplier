@@ -1,0 +1,23 @@
+body {
+    background: url(Polygon\ Luminary.svg);
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+div > input {
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #ff0000;
+}
+
+div > input:hover {
+    color: #134d00;
+    background-color: #b1b3b0;
+    text-align: center;
+}
